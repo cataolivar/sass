@@ -1,0 +1,15 @@
+.footer__index
+{
+    font-family: 'Volkhov', serif; 
+    font-style: italic;
+    background-color: white;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 100%;
+    height: 60px;
+    align-items:center ;
+    justify-items: center;
+    border-top: black solid 1px;
+    margin-top: 170px;
+    grid-area: footer;
+}
